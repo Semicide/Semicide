@@ -1,9 +1,11 @@
 ## Hi there 👋 I'm Mahmut Semih Güner
 
 Welcome to my GitHub profile. I'm passionate about software development and love to work on innovative projects.
+![GitHub followers](https://img.shields.io/github/followers/Semicide?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Semicide?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Semicide)
 
 ## 🚀 Skills
-- Programming Languages:
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -24,4 +26,4 @@ Welcome to my GitHub profile. I'm passionate about software development and love
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Semicide&show_icons=true&theme=radical)
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semicide&layout=compact&theme=radical)
-![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Semicide&theme=react-dark)
+
