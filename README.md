@@ -23,9 +23,7 @@ Welcome to my GitHub profile. I'm passionate about software development and love
 ## 📫 How to reach me:
 - Email: [semigunner27@gmail.com](mailto:semigunner27@gmail.com)
 - LinkedIn: [Semih Güner](https://www.linkedin.com/in/semih-g%C3%BCner-6a8426194/)
-![GitHub followers](https://img.shields.io/github/followers/Semicide?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Semicide?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=Semicide)
+## ![GitHub followers](https://img.shields.io/github/followers/Semicide?style=social)![GitHub stars](https://img.shields.io/github/stars/Semicide?style=social)![Profile views](https://komarev.com/ghpvc/?username=Semicide)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Semicide&show_icons=true&theme=radical)
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semicide&layout=compact&theme=radical)
