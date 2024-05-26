@@ -1,20 +1,27 @@
 ## Hi there 👋 I'm Mahmut Semih Güner
 
+Welcome to my GitHub profile. I'm passionate about software development and love to work on innovative projects.
+
 ## 🚀 Skills
-- Programming Languages:  Python, Java, C#, PHP, Javascript
+- Programming Languages:
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🌟 Projects
-- [AI Self Playing Block Breaker](https://github.com/Semicide/PyGame-NEAT-AI-Block-Breaker): Self playing block breaker game made with NEAT.
-- [Evolving Little Fellas](https://github.com/Semicide/Evolving-Little-Fellas): Evolution Simulation Made With Genetic Algorithm.
-- [Fraud Detection](https://github.com/Semicide/Credit-Card-Fraud-Detection-With-AI): Credit Card Fraud Detection Web App System Made With Multiple Models.
+## 🌟 Projects
+- [AI Self Playing Block Breaker](https://github.com/Semicide/PyGame-NEAT-AI-Block-Breaker): Self-playing block breaker game made with NEAT.
+- [Evolving Little Fellas](https://github.com/Semicide/Evolving-Little-Fellas): Evolution simulation made with a genetic algorithm.
+- [Fraud Detection](https://github.com/Semicide/Credit-Card-Fraud-Detection-With-AI): Credit card fraud detection web app system made with multiple models.
+- And many more...
 
-- 🔭 I’m currently working on [Evolving Little Fellas](https://github.com/Semicide/Evolving-Little-Fellas): Evolution Simulation Made With Genetic Algorithm.
+## 🔭 I’m currently working on [Evolving Little Fellas](https://github.com/Semicide/Evolving-Little-Fellas)
 
-- 📫 How to reach me: 
+## 📫 How to reach me:
 - Email: [semigunner27@gmail.com](mailto:semigunner27@gmail.com)
 - LinkedIn: [Semih Güner](https://www.linkedin.com/in/semih-g%C3%BCner-6a8426194/)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Semicide&show_icons=true&theme=radical)
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semicide&layout=compact&theme=radical)
 ![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Semicide&theme=react-dark)
-
