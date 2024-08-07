@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Mahmut Semih Güner
 
 Welcome to my GitHub profile. I'm passionate about software development and love to work on innovative projects.
-## My CV : [MSG_CV_Graduate.pdf](https://github.com/user-attachments/files/16530292/MSG_CV_Graduate.pdf)
+## My CV : [CV-Mahmut Semih Güner](https://github.com/user-attachments/files/16530292/MSG_CV_Graduate.pdf)
 
 ## 🚀 Skills
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
